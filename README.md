@@ -15,6 +15,7 @@ So, what we have today: <br>
 ✔️ Responsive & Adaptive Developing;<br>
 ✔️ SASS, LESS;<br>
 ✔️ GIT, GitHub;<br>
+✔️ Gulp;<br>
 ✔️ JQuery;<br>
 ✔️ JS (Basics, DOM, ES6) - in progress;<br>
 <br>
